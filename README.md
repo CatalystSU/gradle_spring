@@ -9,4 +9,6 @@
 - `gradle run`
 - add gradle wrapper to the bottom of your file
 - `gradle wrapper`
-- `./gradlew build` ?
+## Running from working repo
+- `./gradlew build`
+- `gradle run`
